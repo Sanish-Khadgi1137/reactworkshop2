@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/reactworkshop2/static/css/main.fd3e00ee.css",
+    "main.js": "/reactworkshop2/static/js/main.af014fdd.js",
+    "static/media/me.png": "/reactworkshop2/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/reactworkshop2/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/coming.jpg": "/reactworkshop2/static/media/coming.ced911c1c538d833671c.jpg",
+    "static/media/quiz.jpg": "/reactworkshop2/static/media/quiz.95059409eb1ef6864764.jpg",
+    "static/media/cv.pdf": "/reactworkshop2/static/media/cv.1a7212338381990a3767.pdf",
+    "index.html": "/reactworkshop2/index.html",
+    "main.fd3e00ee.css.map": "/reactworkshop2/static/css/main.fd3e00ee.css.map",
+    "main.af014fdd.js.map": "/reactworkshop2/static/js/main.af014fdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd3e00ee.css",
+    "static/js/main.af014fdd.js"
+  ]
+}
